@@ -5,6 +5,19 @@ Questões da Unidade 1 do EAD AVA - IFCE
 
 # Tarefas:
 
+# Questões:
+## 01.c 
+Implementar uma função de pesquisa em vetores que recebe como parâmetros o vetor, seu tamanho e o elemento a ser buscado. A função deve retornar a posição do elemento no vetor ou -1 caso o elemento não seja encontrado.
+
+## 02.c
+Implementar uma função semelhante para realizar a pesquisa em matrizes, considerando as linhas e colunas.
+
+## 03.c
+Implementar funções para ordenar um vetor em ordem crescente e decrescente, utilizando os métodos de ordenação de sua escolha.
+
+## 04.c 
+Implementar funções semelhantes para realizar a ordenação das linhas ou colunas de uma matriz.
+
 ## 1. Implementação de Métodos de Pesquisa:
 - Implementar uma função de pesquisa em vetores que recebe como parâmetros o vetor, seu tamanho e o elemento a ser buscado. A função deve retornar a posição do elemento no vetor ou -1 caso o elemento não seja encontrado.
 - Implementar uma função semelhante para realizar a pesquisa em matrizes, considerando as linhas e colunas.
