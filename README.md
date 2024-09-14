@@ -30,9 +30,9 @@ Implementar funções semelhantes para realizar a ordenação das linhas ou colu
 - No programa principal, criar vetores e matrizes com valores aleatórios para teste.
 - Utilizar as funções implementadas para realizar operações de pesquisa e classificação nos vetores e matrizes.
 - Exibir os resultados na tela para verificar se as operações foram realizadas corretamente.
-  <img src=".//home/fernanda/Imagens/Capturas de tela/questao1.png">
-  <img src=".//home/fernanda/Imagens/Capturas de tela/questao2.png">
-  <img src=".//home/fernanda/Imagens/Capturas de tela/questao3.png">
-  <img src=".//home/fernanda/Imagens/Capturas de tela/questao4.png">
+  <img src="./questao1.png">
+  <img src="./questao2.png">
+  <img src="./questao3.png">
+  <img src="./questao4.png">
 ## Observações:
 - Comente o código e a escolha os métodos de pesquisa e classificação que considere mais eficientes para a situação.
