@@ -36,3 +36,13 @@ Implementar funções semelhantes para realizar a ordenação das linhas ou colu
   <img src="./questao4.png" alt="Questão 4">
 ## Observações:
 - Comente o código e a escolha os métodos de pesquisa e classificação que considere mais eficientes para a situação.
+- 
+
+# 1. Método de Pesquisa:
+Para a busca de um elemento específico, tem dois métodos que podem ser utilizados:
+## Busca Linear:
+- Método utilizado nos códigos, por ser mais simples e não depender da ordenação de dados.
+
+# 2. Método de Classificação:
+## Bubble Sort:
+- Utilizado nos códigos por sua simplicidade, se adequando a demonstração e exibição de pequenos conjuntos de dados.
